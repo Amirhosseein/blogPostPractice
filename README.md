@@ -27,8 +27,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ##  More Info
 
-**install mongoDB on your system**  
+**install mongoDB on your system** 
+
 **go to dataBase/mongodb.ts**
+
 **change url**
 
 
