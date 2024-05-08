@@ -1,0 +1,27 @@
+.modal--overlay{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100vh;
+    width: 100% !important;
+    backdrop-filter: blur(4px);
+    z-index: 2;
+}
+
+
+.modal--container{
+    background-color: #fff;
+    position: fixed;
+    top: 32%;
+    left: 40%;
+    padding: 25px;
+    box-shadow: 0 1px 5px #a6a8aa;
+}
+
+.modal--btn--close{
+    position: absolute;
+    top:0px;
+    right: 0px;
+   
+
+}

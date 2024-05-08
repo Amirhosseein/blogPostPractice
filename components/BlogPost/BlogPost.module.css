@@ -1,0 +1,58 @@
+.mainContainer{
+   text-align: left;
+   padding: 20px;
+   width: 500px;
+   margin: 40px auto;
+   box-shadow: 0 1px 5px #a6a8aa;
+}
+
+.blogForm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blogForm div{
+    width: 350px;
+}
+
+.blogForm input{
+    width: 95%;
+}
+
+.blogForm textarea{
+    width: 95%;
+    height: 50px;
+}
+
+.blogBtn{
+    width: 40%;
+    padding: 8px;
+    border: 1px solid;
+    background-color:  #007bff;;
+    border-color:  #007bff;;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.blogBtn:hover{
+    background: #007bffb4;
+    border-color: #007bffb4;
+}
+
+.blogBtn:disabled,.blogBtn[disabled]{
+    background: #8d8e8fb4;
+    border-color: #8d8e8fb4;
+}
+
+.errorText{
+    color: #ff0055;
+}

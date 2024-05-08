@@ -1,0 +1,15 @@
+.headerNav{
+    background-color: #007bff;
+    margin: 0px;
+    padding: 25px;
+    box-shadow: 0 1px 5px #a6a8aa;
+    
+}
+
+
+.headerNav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    margin-right: 25px;
+}

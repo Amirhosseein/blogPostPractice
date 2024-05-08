@@ -1,0 +1,10 @@
+.home--main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.home--header{
+    text-align: center;
+}

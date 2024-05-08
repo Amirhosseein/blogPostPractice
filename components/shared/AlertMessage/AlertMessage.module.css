@@ -1,0 +1,43 @@
+
+.btnContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.btn{
+    width: 40%;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.yesBtn{
+    background: #ff0055;
+    border-color: #ff0055;
+  
+   
+}
+
+.yesBtn:hover{
+    background: #ff4382;
+    border-color: #ff4382;
+}
+
+
+.noBtn{
+  
+
+    background-color:  #007bff;;
+    border-color:  #007bff;;
+}
+
+.noBtn:hover{
+   
+    background: #007bffb4;
+    border-color: #007bffb4;
+}
+
